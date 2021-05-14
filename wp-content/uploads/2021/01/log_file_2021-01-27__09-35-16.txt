@@ -1,0 +1,102 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 0
+Files info:
+Site URL = https://itswebsitedeveloper.com/intraday
+Data file = /home2/itswexzk/public_html/intraday/wp-content/themes/starto/data/demos/demo1/demo.xml
+Widget file = not defined!
+Customizer file = /home2/itswexzk/public_html/intraday/wp-content/themes/starto/data/demos/demo1/demo.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc-admin-data
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

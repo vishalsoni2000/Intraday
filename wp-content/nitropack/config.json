@@ -1,0 +1,19 @@
+{
+    "intradayinc.com": {
+        "siteId": "aMlYursvMdkHoSHlNGkhxSMwYdQQZoBp",
+        "siteSecret": "GLYkNWDp1n6jCm2orwQjb0ujtS96ZVOkgyFo6d4KWlD6jvncQw2N5x7BFGZb830Y",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "43ed88405b147c3eb08544e16e09d0f9",
+        "home_url": "https:\/\/intradayinc.com",
+        "admin_url": "https:\/\/intradayinc.com\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.2"
+    }
+}

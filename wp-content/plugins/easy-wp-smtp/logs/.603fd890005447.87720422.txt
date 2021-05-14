@@ -1,0 +1,207 @@
+Easy WP SMTP debug log file
+
+Headers: , To: support@intradayinc.com, Subject: [Intraday] Your Site is Experiencing a Technical Issue
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: support@intradayinc.com, Subject: WP Mail SMTP: HTML Test email to support@intradayinc.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: support@intradayinc.com, Subject: WP Mail SMTP: HTML Test email to support@intradayinc.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: support@intradayinc.com, Subject: WP Mail SMTP: HTML Test email to support@intradayinc.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: support@intradayinc.com, Subject: WP Mail SMTP: HTML Test email to support@intradayinc.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: support@intradayinc.com, Subject: WP Mail SMTP: HTML Test email to support@intradayinc.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: support@intradayinc.com, Subject: WP Mail SMTP: HTML Test email to support@intradayinc.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: , To: support@intradayinc.com, Subject: Intraday "[your-subject]"
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: , To: support@intradayinc.com, Subject: Intraday "[your-subject]"
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: support@intradayinc.com, Subject: WP Mail SMTP: HTML Test email to support@intradayinc.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: , To: support@intradayinc.com, Subject: [Intraday] Password Reset
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: support@intradayinc.com, Subject: WP Mail SMTP: HTML Test email to support@intradayinc.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: , To: support@intradayinc.com, Subject: Intraday "[your-subject]"
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: , To: support@intradayinc.com, Subject: Intraday "[your-subject]"
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: , To: support@intradayinc.com, Subject: Intraday "[your-subject]"
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: , To: support@intradayinc.com, Subject: Intraday "[your-subject]"
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: From: "INTRADAY INC." <contact@intradayinc.com> | Return-Path: <contact@intradayinc.com> | Reply-To: <contact@intradayinc.com> | Content-Type: text/html; charset="UTF-8", To: wisdomscoop0117@gmail.com, Subject: Welcome to Intraday
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: From: "INTRADAY INC." <contact@intradayinc.com> | Return-Path: <contact@intradayinc.com> | Reply-To: <contact@intradayinc.com> | Content-Type: text/html; charset="UTF-8", To: support@intradayinc.com, Subject: One more contact joins our tribe!
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: From: "INTRADAY INC." <support@intradayinc.com> | Return-Path: <support@intradayinc.com> | Reply-To: <support@intradayinc.com> | Content-Type: text/html; charset="UTF-8", To: itswebsitedeveloper@gmail.com, Subject: Welcome to Intraday
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: From: "INTRADAY INC." <support@intradayinc.com> | Return-Path: <support@intradayinc.com> | Reply-To: <support@intradayinc.com> | Content-Type: text/html; charset="UTF-8", To: support@intradayinc.com, Subject: One more contact joins our tribe!
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: From: "INTRADAY INC." <contact@intradayinc.com> | Return-Path: <contact@intradayinc.com> | Reply-To: <contact@intradayinc.com> | Content-Type: text/html; charset="UTF-8", To: mariannemsullivan@gmail.com, Subject: Welcome to Intraday
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: From: "INTRADAY INC." <contact@intradayinc.com> | Return-Path: <contact@intradayinc.com> | Reply-To: <contact@intradayinc.com> | Content-Type: text/html; charset="UTF-8", To: support@intradayinc.com, Subject: One more contact joins our tribe!
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: vishalsoni2225@gmai.com, Subject: WP Mail SMTP: HTML Test email to vishalsoni2225@gmai.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: support@intradayinc.com, Subject: WP Mail SMTP: HTML Test email to support@intradayinc.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: vishalsoni2225@gmai.com, Subject: WP Mail SMTP: HTML Test email to vishalsoni2225@gmai.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: X-Mailer-Type:WPMailSMTP/Admin/Test, To: vishalsoni2225@gmai.com, Subject: WP Mail SMTP: HTML Test email to vishalsoni2225@gmai.com
+*** SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting ***
+Headers: Content-Type: text/html; charset=UTF-8, To: Array, Subject: [www.intradayinc.net] Site Lockout Notification
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: support@www.intradayinc.net, Subject: [www.intradayinc.net] Daily Security Digest
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: , To: support@www.intradayinc.net, Subject: Intraday "[your-subject]"
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: Array, Subject: [www.intradayinc.net] Site Lockout Notification
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: Array, Subject: [www.intradayinc.net] Site Lockout Notification
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: Array, Subject: [www.intradayinc.net] Site Lockout Notification
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: support@www.intradayinc.net, Subject: [www.intradayinc.net] Daily Security Digest
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: Array, Subject: [www.intradayinc.net] Site Lockout Notification
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: Array, Subject: [www.intradayinc.net] Site Lockout Notification
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: support@www.intradayinc.net, Subject: [www.intradayinc.net] Daily Security Digest
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: Array, Subject: [www.intradayinc.net] Site Lockout Notification
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: Array, Subject: [www.intradayinc.net] Site Lockout Notification
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: support@www.intradayinc.net, Subject: [www.intradayinc.net] Daily Security Digest
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: Array, Subject: [www.intradayinc.net] Site Lockout Notification
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: Array, Subject: [www.intradayinc.net] Site Lockout Notification
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: Content-Type: text/html; charset=UTF-8, To: support@www.intradayinc.net, Subject: [www.intradayinc.net] Daily Security Digest
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: , To: support@intradayinc.com, Subject: [Intraday] New Admin Email Address
+
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (www.intradayinc.net) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+Headers: , To: support@intradayinc.com, Subject: Message From Customer DEEPAK SONI
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: Content-Type: text/html; charset=UTF-8, To: Array, Subject: [intradayinc.com] Site Lockout Notification
+Headers: Content-Type: text/html; charset=UTF-8, To: support@intradayinc.com, Subject: [intradayinc.com] Daily Security Digest
+Headers: , To: support@intradayinc.com, Subject: [Intraday] New User Registration
+Headers: , To: vishalsoni2225@gmail.com, Subject: [Intraday] Login Details
+Headers: , To: support@intradayinc.com, Subject: [Intraday] New User Registration
+Headers: , To: bruce.hrovat@intradayinc.com, Subject: [Intraday] Login Details
+Headers: , To: support@intradayinc.com, Subject: [Intraday] New User Registration
+Headers: , To: tim.chapman@intradayinc.com, Subject: [Intraday] Login Details
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Kevin Marks
+Headers: , To: support@intradayinc.com, Subject: Message From Customer John Evans
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Linda Miller
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Linda Miller
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Jacob Robinson
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: [Intraday] Your site has updated to WordPress 5.7.1
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Wyman Marshall
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: [Intraday] Password Changed
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Zoila Nichols
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Linda Miller
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Eric Jones
+Headers: , To: support@intradayinc.com, Subject: Adam Bedford Requested A Demo
+Headers: , To: support@intradayinc.com, Subject: Message From Customer Kevin Marks
+Headers: , To: support@intradayinc.com, Subject: [Intraday] Your site has updated to WordPress 5.7.2
